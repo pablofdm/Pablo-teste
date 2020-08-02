@@ -3,8 +3,8 @@ Este projeto foi iniciado com o [Create React App](https://github.com/facebook/c
 
 # Pacotes e libs usados: 
 
-• [Material-UI](https://material-ui.com/pt/) - React components for faster and easier web development.
-• [Recharts](https://recharts.org/en-US/) - A composable charting library built on React components
+• [Material-UI](https://material-ui.com/pt/) - React components for faster and easier web development.</br>
+• [Recharts](https://recharts.org/en-US/) - A composable charting library built on React components.</br>
 • [Material-pickers](https://material-ui-pickers.dev/) - Date & Time pickers, built for @material-ui/core
 
 
