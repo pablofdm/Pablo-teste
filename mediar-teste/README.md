@@ -1,14 +1,16 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi iniciado com o [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
 
 ## Packeges used: 
 
 • [Material-ui](https://material-ui.com/pt/) - React components for faster and easier web development.
 • [Recharts](https://recharts.org/en-US/) - A composable charting library built on React components
 • [Material-pickers](https://material-ui-pickers.dev/) - Date & Time pickers, built with ❤️ for @material-ui/core
+
+## Scripts disponíveis
+
+No diretório do projeto, você pode executar:
+
 
 ## Soluções de UI/UX implementadas:
 
