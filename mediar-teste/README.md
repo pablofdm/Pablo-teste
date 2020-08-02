@@ -1,15 +1,12 @@
 Este projeto foi iniciado com o [Create React App](https://github.com/facebook/create-react-app).
 
 
-# Packeges used: 
+# Pacotes e libs usados: 
 
-• [Material-ui](https://material-ui.com/pt/) - React components for faster and easier web development.
+• [Material-UI](https://material-ui.com/pt/) - React components for faster and easier web development.
 • [Recharts](https://recharts.org/en-US/) - A composable charting library built on React components
-• [Material-pickers](https://material-ui-pickers.dev/) - Date & Time pickers, built with ❤️ for @material-ui/core
+• [Material-pickers](https://material-ui-pickers.dev/) - Date & Time pickers, built for @material-ui/core
 
-## Scripts disponíveis
-
-No diretório do projeto, você pode executar:
 
 ## Soluções de UI/UX implementadas:
 
@@ -24,6 +21,11 @@ No diretório do projeto, você pode executar:
 • Correspondência entre o sistema e o mundo real - O sistema deve exmpressar a linguagem clara aos usuários, com palavras, frases e conceitos familiares ao usuário, ao invés de termos orientados ao sistema. 
 
 • Botões com troca de cores - Foi também colocado um design de representação de seleção nos botões para uma melhor representação de status e design no sistema.
+
+
+## Scripts disponíveis
+
+No diretório do projeto, você pode executar:
 
 ### `npm start`
 
