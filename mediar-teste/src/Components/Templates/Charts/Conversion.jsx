@@ -6,6 +6,7 @@ import CardContent from "@material-ui/core/CardContent";
 import Button from "@material-ui/core/Button";
 import Typography from "@material-ui/core/Typography";
 import BarChart from "../Charts/BarChart";
+import InfoIcon from '@material-ui/icons/Info';
 
 const useStyles = makeStyles({
   root: {
@@ -22,6 +23,9 @@ const useStyles = makeStyles({
   pos: {
     marginBottom: 12,
   },
+  info:{
+    paddingLeft: 400,
+  }
 });
 
 export default function SimpleCard() {
@@ -41,6 +45,7 @@ export default function SimpleCard() {
       </CardContent>
       <CardActions>
         <Button size="small">Learn More</Button>
+        <a href="#/info"className={classes.info}><InfoIcon  color="disabled"/></a>
       </CardActions>
     </Card>
   );
